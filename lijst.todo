@@ -1,0 +1,26 @@
+☐ Features
+  ☐ Een Slashcommandversie van alle commands maken (wacht hiermee tot discord.py 2.0)
+  ☐ Herwerking van het "slaaf help" command.
+  ☐ Een buienradar command alsook een weer command
+  ☐ Voor de eerstejaars academiejaar 21/22 een aparte agenda
+  ☐ Fix de oplossing Cog
+  ☐ Kalender
+    ☐ Een kalender maken voor   de eerstejaars
+    ☐ Een beter wachtwoord kiezen
+
+Quality control (with linter)
+
+  ☐ Verificatie bij email
+    ☐ Aankondiging maken enzo
+    ☐ de mails hashen of op een andere manier encrypten
+
+☐ Code cleanup
+  ☐ Alle commands in aparte Cogs steken ipv in main.py
+  ☐ API keys verbergen (dit kan mss na de migratie)
+  ☐ Alle TODOs in het project zelf eens nakijken
+  ☐ Comments (tests zijn niet required imo maar toch wat helpful comments zou handig zijn)
+  ☐ Discord components vervangen door de officiële API (wacht hiermee tot discord.py 2.0)
+  ☐ De Vraagslaaf een beter wachtwoord geven
+
+☐ de Vraagslaaf crew aanwerven
+  ☐ Alst kan 1 tweedejaar en 1 eerstejaar

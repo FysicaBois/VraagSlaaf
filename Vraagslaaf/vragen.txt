@@ -1,0 +1,233 @@
+Een hond rent in 8,4s en een rechte lijn 120m weg van zijn baas en rent vervolgens in eenderde van de tijd terug tot halverwege. Bereken (a) zijn gemiddelde snelheid en (b) zijn gemiddelde snelheids vector.
+$$
+Een bowlingbal die met constante snelheid rolt raakt de kegels aan het einde van een bowlingbaan van 16,5m lang. De bowler hoort het geluid van de bal die de kegels raakt 2,50s nadat hij de bal heeft losgelaten. Wat is de snelheid van de bal, aangenomen dat de geluidssnelheid 340m/s is?
+$$
+Een auto remt in 5,00s gelijkmatig af van een snelheid van 18,0m/s tot rust. Welke afstand heeft hij in die tijd afgelegd?;
+Kan de snelheid van een voorwerp negatief zijn wanneer zijn versnelling positief is? en omgekeerd?
+$$
+Een bal wordt losgelaten vanaf een 50,0m een hoge rotspunt. Tegelijkertijd wordt er vanaf de voet van de rots een zorgvuldig gerichte steen met een snelheid van 24,0 m/s omhoog gegooid. Onderweg botsen de steen en de bal op elkaar. Hoever oven de voet van de rots gebeurt dit?
+$$
+Bram kan een bal verticaal 1,5 keer zo snel gooien als Jan. Hoeveel maal hoger zal Brams bal gaan?
+$$
+De piloot van een vliegtuig dat met 170 km/u vliegt, wil voorraden droppne voor overstromingsslachtoffers op een 150m eronder gelegen geïsoleer stuk land. Hoeveel seconden voordat het vliegtuig er recht boven vliegt moeten de voorraden worden gedropt?; 
+Een filmstuntman rijdt op een motor horizontaal van een 50m hoge rots af.  Hoe snel moet de motor van de rots afrijden om op de grond eronder te landen op 90m van de voet van de rots waar de camera's zijn? Verwaarloos wrijving.
+$$
+Kun je concluderen dat een auto niet versnelt als zijn snelheidsmeter constant 60 km/u aangeeft?
+$$
+een dunne homogene stok met massa M en lente l wordt verticaal met de tip op een wrijvingsloos tafelblad geplaatst. Dan wordt de stok losgelaten, zodat deze kan vallen. Bereken de snelheid van het MM van de stok, net voordat deze op het tafelblad terechtkomt. ||p 323 oef 103||
+$$
+Veronderstel dat op een dag heel veel mensen zouden besluiten naar de evenaar te emigreren. Zou de lengte van de dag langer of korter worden? Komt dat door behoud van impulsmoment, of door behoud van energie? ||p 346 oef 1 ||
+$$
+(a) Gebruik de wet van Bernouilli en de continuiteitsvergelijking om aan te tonen dat de uitstootsnelheid van de aandrijfgassen van een raket gelijk is aan v = sqrt(2(P - P_0)/rho); met rho de dichtheid van het gas, P de druk van het gas in de raket en P_0 de atmosferische druk net buiten de uitlaatopening. Veronderstel dat de gasdichtheid ongeveer constant blijft en dat het oppervlak van de uitlaatopening A_0 veel kleiner is dan de dwarsdoorsnede A van het inwendige van de raket, die je als een grote cilinder mag beschouwen. Veronderstel ook dat de gassnelheid niet zo hoog is dat er turbulentie of niet-continue stromingen optreden.
+(b) Toon aan dat de stuwkracht op de raket als gevolg van de uitgestoten gassen gelijk is aan F = 2A_0sqrt(P-P_0) ||p 421 oef 61 ||
+$$
+A small wooden block with mass 0.800 kg is sus-
+pended from the lower end of a light cord that is 1.60 m long. The
+block is initially at rest. A bullet with mass 12.0 g is fired at the
+block with a horizontal velocity v_0. The bullet strikes the block
+and becomes embedded in it. After the collision the combined
+object swings on the end of the cord. When the block has risen a
+vertical height of 0.800 m, the tension in the cord is 4.80 N. What
+was the initial speed v_0 of the bullet?
+$$
+The pulley in the figure has radius R and a moment of
+inertia I. The rope does not slip over the pulley, and the pulley
+spins on a frictionless axle. The coefficient of kinetic friction
+between block A and the tabletop is mu_k. The system is released
+from rest, and block B descends. Block A has mass m_A, and block
+B has mass m_B. Use energy methods to calculate the speed of
+block B as a function of the distance d that it has descended.
+<!v2.png>
+$$
+A claw hammer is
+used to pull a nail out of a board Fr. The nail is at an
+angle of 60° to the board. and a
+force F_1, of magnitude 400 N
+applied to the nail is required to
+pull it from the board. The ham-
+mer head contacts the board at
+point A, which 0.080 m from
+where the nail enters the board.
+A horizontal force F_2 is applied
+to the hammer handle at a dis-
+tance of 0.300 m above the
+board. What magnitude of force 
+F_2 is required to apply the
+required 400-N force (F_1) to
+the nail? (You can ignore the
+weight of the hammer.)
+<!v3.png>
+$$
+A 75.0-kg man steps off a
+platform 3.10 m above the ground. He keeps his legs straight as he
+falls, but at the moment his fect touch the ground his knees begin to
+bend, and. treated as a particle. he moves an additional 0.60 m
+before coming to rest. (a) What is his speed at the instant his feet
+touch the ground? (b) Treating him as a particle, what is his accel-
+eration (magnitude and direction) as he slows down. if the acceler-
+ation is assumed to be constant? (c) Draw his free-body diagram
+. In terms of the forces on the diagram, what is the
+net force on him? Use Newton's laws and the results of past (b) to
+calculate the average force his feet exert on the ground while he
+slows down. Express this force in newtons and also as a multiple
+of his weight.
+$$
+In the Cavendish balance
+apparatus shown in Fig. 13.4. suppose that m_1 = 1.10 kg. 
+m_2 = 25.0 kg. and the rod connecting the m_1 pairs is 30.0 cm long. If in
+each pair, m_1 and m_2 are 12.0 cm apart center to center, find
+(a) the net force and (b) the net torque (about the rotation axis) on
+the rotating part of the apparatus. (c) Does it seem that the torque
+in part (b) would be enough to easily rotate the rod? Suggest some
+ways to improve the sensitivity of this experiment.
+$$
+You are asked to design a spring that will give a 1160-kg
+satellite a speed of 2.50 m/s relative to an orbiting space shuttle.
+Your spring is to give the satellite a maximum acceleration of
+5.00g. The spring’s mass, the recoil kinetic energy of the shuttle.
+and changes in gravitational potential energy will all be negligible.
+(a) What must the force constant of the spring be? (b) What dis-
+tance must the spring be compressed?
+$$
+A bicycle racer is going downhill at 11.0 m/s when, to his
+horror, one of his 2.25-kg wheels comes off as he is 75.0 m above the
+foot of the hill. We can model the wheel as a thin-walled cylinder
+85.0 cm in diameter and neglect the small mass of the spokes.
+(a) How fast is the wheel moving when it reaches the foot of the
+hill if it rolled without slipping all the way down? (b) How much
+total kinetic energy does the wheel halve when it reaches the bottom
+of the hill?
+$$
+(a) Suppose you are at the earth’s equator and observe a
+satellite passing directly overhead and moving from west to east in
+the sky. Exactly 12.0 hours later, you again observe this satellite to
+be directly overhead. How far above the earth's surface is the
+satellite's orbit? (b) You observe another satellite directly overhead
+and traveling east to west. This satellite is again overhead in
+12.0 hours. How far is this satellite's orbit above the surface of the
+earth?
+$$
+It has been argued that power plants should make use of
+off-peak hours (such as late at night) to generate mechanical
+energy and store it until it is needed during peak load times. such
+as the middle of the day. One suggestion has been to store the
+energy in large flywhcels spinning on nearly frictionless ball bear-
+ings. Consider a flywheel made of iron (density 7800 kg/ m^3) in
+the shape of a 10.0-cm-thick uniform disk. (a) What would the
+diameter of such a disk need to be if it is to store 10.0 megajoules
+of kinetic energy when spinning at 90.0 rpm about an axis perpen-
+dicular to the disk at its center? (b) What would be the centripetal
+acceleration of a point on its rim when spinning at this rate?
+$$
+A ladder carried by a fire truck is
+20.0 m long. The ladder weighs 2800 N and its center of gravity is
+at its center. The ladder is pivoted at one end (A) about a pin
+(zie figuur); you can ignore the friction torque at the pin. The lad-
+der is raised into position by a force applied by a hydraulic piston
+at C. Point C is 8.0 m from A, and the force F exerted by the piston
+makes an angle of 40° with the ladder. What magnitude must F
+have to just lift the ladder off the support bracket at B? Start with a
+free-body diagram of the ladder.
+<!v4.png>
+$$
+You are lowering two boxes. one of top of the other,
+down the ramp thown in de figuur by pulling on a rope parallel to
+the surface of the ramp. Both boxes move together at a constant
+speed of 15.0 cm/s. The coëfficient of kinetic friction between the
+ramp and the lower box is 0.444, and the coefficient of static fric-
+tion between the two boxes is 0.800. (a) What force do you need to
+exert to accomplish this? (0) What are the magnitude and direction
+of the friction force on the upper box?
+<!v5.png>
+$$
+Een eenvormige cilinder met massa M = 50.0 g en R = 1.0 cm ligt op een horizontaal vlak en is verbonden met een veer met veerconstante k = 2.25 N/m. De cylinder wordt een klein eindje verplaatst,waardoor de veer uitrekt, en dan weer losgelaten. Hij begint heen en weer te rollen zonder te slippen. Wat is de periode van de harmonische beweging?
+<!v6.png>
+$$
+A 124-kg balloon carrying a 22-kg basket is descending
+with a constant downward velocity of 20.0 m/s. A 1.0-kg stone is
+thrown from the basket with an initial velocity of 15.0 m/s perpen-
+dicular to the path of the descending balloon, as measured relative
+to a person at rest in the basket. The person in the basket sees the
+stone hit the ground 6.00 s after being thrown. Assume that the bal-
+loon continues its downward descent with the same constant speed
+of 20.0 m/s. (a) How high was the balloon when the rock was
+thrown out? (b) How high is the balloon when the rock hits the
+ground? (c) At the instant the rock hits the ground, how far is it
+from the basket? (d) Just before the rock hits the ground, find its
+horizontal and vertical velocity components as measured by an
+observer (i) at rest in the basket and (ii) at rest on the ground.
+$$
+A .22 rifle bullet, traveling at 350 m/s, strikes a large
+tree, which it penetrates to a depth of 0.130 m. The mass of the
+bullet is 1.80 g. Assume a constant retarding force. (a) How much
+time is required for the bullet to stop? (b) What force, in newtons,
+$$
+A wagon wheel is con-
+structed as shown in onderstaande figuur. The
+radius of the wheel is 0.300 m, and
+the rim has mass 1.40 kg. Each of the
+eight spokes that lie along a diameter
+and are 0.300 m long has mass
+0.280 kg. What is the moment of
+inertia of the wheel about an axis
+through its center and perpendicular
+to the plane of the wheel? (Use the ????
+<!v7.png>
+$$
+Een voorwerp met massa van 50 kg hangt aan een uiteinde van een balk met massa 2 kg. De balk wordt horizontaal gehouden door een stalen kabel die een hoek van 20° maakt met de balk. Hoe groot moet de diameter van de kabel minstens zijn?
+<!v8.png>
+$$
+A 5.00-kg chunk of
+ice ie sliding at 12.0m/s on the floor of an ice-covered valley
+when it collides with and sticks to another 5.00-kg chunk of ice
+that is initially at rest. (onderstaande figuur). Since the valley is icy, there is
+no friction. After the collision, how high above the valley floor will
+the combined chunks go?
+<!v9.png>
+$$
+In a carnival booth, you win a stuffed giraffe if you toss a quarter into a small dish. The dish is on a shelf above the point where the quarter leaves your hand and is a horizontal distance of 2.1 m from this point (onderstaande figuur). If you toss the coin with a velocity of 6.4 m/s at an angle of 60° above the horizontal, the coin lands in the dish. You can ignore air resistance. (a) What is the height of the shelf above the point where the quarter leaves your hand? (b) What is the vertical component of the velocity of the quarter just before it lands in the dish.
+<!v10.png>
+$$
+You are to design a rotating cylindrical axle to lift 800-N
+buckets of cement from the ground to a rooftop 78.0 m above
+the ground. The buckets will be attached to a hook on the free end
+of a cable that wraps around the rim of the axle; as the axle turns,
+the buckets will rise. (a) What should the diameter of the axle be in
+order to raise the buckets at a steady 2.00 cm/s when it is turning
+at 7.5 rpm? (b) If instead the axle must give the buckets an upward
+acceleration of 0.400 m/s, what should the angular acceleration
+of the axle be?
+$$
+A rock is suspended by a light string. When the rock is
+in air, the tension in the string is 39.2 N. When the rock is totally
+immersed in water, the tension is 28.4 N. When the rock ts totally
+immersed in an unknown liquid. the tension in 18.6 N. What is the
+density of the unknown liquid?
+$$
+Two very large open tanks A and F (figuur) contain
+the same liquid. A horizontal pipe BCD, having a constriction at C
+and open to the air at D, leads out of the bottom of tank A, and a
+vertical pipe E opens into the constriction at C and dips into the
+liquid in tank F. Assume streamline flow and no viscosity. If the
+cross-sectional area at C is one-half the area at D and if D is a dis-
+tance h_1, below the level of the liquid in A, to what height h_2 will
+the liquid rise in pipe E? Express your answer in terms of h_1.
+<!v11.png>
+$$
+A bungee cord is 30.0 m long and
+when stretched a distance x, it exerts a restoring force of magnitude
+kx. Your father-in-law (mass 95.0 kg) stands on a platform 45.0 m
+above the ground. and one end of the cord is tied securely to his
+ankle and the other end to the platform. You have promised him that
+when he steps off the platform he will fall a maximum distance of
+only 41.0 m before the cord stops him. You had several bungee
+cords to select from. and you tested them by stretching them out.
+tying one end to a tree, and pulling on the other end with a force of
+380.0 N. When you do this, what distance will the bungee cord that
+you should select have stretched?
+$$
+een vrouw en een man staan op schaatsen op een ijspiste. Dit zorgt voor verwaarloosbare wrijving. De vrouw weegt 54 kg, de man 88 kg. Na afduwen beweegt de vrouw aan een snelheid van 2.5m/s. Als de lichtsnelheid slechts 3.0 m/s bedroeg, wat is dan de snelheid van de man?
+$$
+Een houten blok met massa  M = 0.5 kg hangt aan een dunne stalen draad. Onbelast is deze 1.00 m lang, maar door het blok rekt deze 0.030mm uit. Je schiet nu een kogel met massa m = 30,0g horizontaal in dit blo, en de kogel blijft in het blok steken. Wat moet de snelheid van de kogel minimaal zijn zodat de stalen draad net breekt?
+$$
+De waterstraal van een kraan wordt dunner naarmate deze verder van de uitloop verwijderd is (zie ook figuur ||13.58 p 424||). Leid een vergelijking af voor de diameter van de waterstraal als functie van de afstand y tot de uitloop als bekend is dat het water een snelheid v_0 heeft bij het verlaten van de uitloop die een diameter d heeft. Hint: ||gebruik Bernoulli en de cont. verg.|| ||oef 95 p 424||

@@ -1,0 +1,9 @@
+.idea
+dist
+**/.env
+**/env
+**/__pycache__
+Vraagslaaf/SPOILER_temp.png
+Vraagslaaf/env
+Vraagslaaf/__pycache__
+.venv
