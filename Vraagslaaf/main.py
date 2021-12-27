@@ -27,6 +27,7 @@ from Vraagslaaf.opl import Oplossing
 from Vraagslaaf.casino import Casino
 from discord_components import DiscordComponents
 
+from Vraagslaaf.study import Study
 from Vraagslaaf.studyroom import StudyRoom
 from Vraagslaaf.ufora import Ufora
 from Vraagslaaf.verify import Verify
@@ -87,6 +88,9 @@ studyroom = StudyRoom(bot)
 bot.add_cog(studyroom)
 
 ufora = Ufora(bot, comms)
+
+stat = Study(bot)
+bot.add_cog(stat)
 
 testCog = TestCog(bot, comms)
 

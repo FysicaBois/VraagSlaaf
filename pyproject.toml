@@ -29,6 +29,7 @@ aiogoogle = "^2.0.1"
 ffmpeg = "^1.4"
 youtube_dl = "^2021.6.6"
 feedparser = "^6.0.8"
+"discord.py" = "^1.7.3"
 
 [tool.poetry.dev-dependencies]
 
