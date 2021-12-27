@@ -3,7 +3,7 @@ import random
 
 import discord
 from discord.ext import commands
-
+#changed something
 
 class Study(commands.Cog):
     def __init__(self, bot):
