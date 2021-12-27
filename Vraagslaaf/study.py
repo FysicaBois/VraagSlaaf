@@ -9,10 +9,10 @@ class Study(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.tomstatistiekstelling = os.listdir(
-            "Vraagslaaf/studytomstatistiek/stellingen"
+            "Vraagslaaf/tomstatistiek/stellingen"
         )
         self.tomstatistiekbewijs = os.listdir(
-            "Vraagslaaf/studytomstatistiek/bewijzen"
+            "Vraagslaaf/tomstatistiek/bewijzen"
         )
 
     @commands.command()
@@ -22,14 +22,14 @@ class Study(commands.Cog):
             size = len(stelling)
             bewijs = f"{stelling[:size - 4]}" + "bewijs" + ".jpg"
             spoiler = discord.File(
-                "Vraagslaaf/studytomstatistiek/bewijzen/{}".format(
+                "Vraagslaaf/tomstatistiek/bewijzen/{}".format(
                     bewijs
                 )
             )
             spoiler.filename = f"SPOILER_{spoiler.filename}"
             await ctx.reply(
                 file=discord.File(
-                    "Vraagslaaf/studytomstatistiek/stellingen/{}".format(
+                    "Vraagslaaf/tomstatistiek/stellingen/{}".format(
                         stelling
                     )
                 )
@@ -51,14 +51,14 @@ class Study(commands.Cog):
             size = len(stelling)
             bewijs = f"{stelling[:size - 4]}" + "bewijs" + ".jpg"
             spoiler = discord.File(
-                "Vraagslaaf/studytomstatistiek/bewijzen/{}".format(
+                "Vraagslaaf/tomstatistiek/bewijzen/{}".format(
                     bewijs
                 )
             )
             spoiler.filename = f"SPOILER_{spoiler.filename}"
             await ctx.reply(
                 file=discord.File(
-                    "Vraagslaaf/studytomstatistiek/stellingen/{}".format(
+                    "Vraagslaaf/tomstatistiek/stellingen/{}".format(
                         stelling
                     )
                 )
