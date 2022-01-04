@@ -31,6 +31,7 @@ from Vraagslaaf.study import Study
 from Vraagslaaf.studyroom import StudyRoom
 from Vraagslaaf.ufora import Ufora
 from Vraagslaaf.verify import Verify
+from Vraagslaaf.weer import Weer
 from Vraagslaaf.wolfram import WolframAlpha
 
 
@@ -91,6 +92,9 @@ ufora = Ufora(bot, comms)
 
 stat = Study(bot)
 bot.add_cog(stat)
+
+weer = Weer()
+bot.add_cog(weer)
 
 testCog = TestCog(bot, comms)
 
